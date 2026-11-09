@@ -5,7 +5,9 @@ A repository containing statistical analysis projects in R and SAS from my Maste
 The statistical analysis projects included were done for the following courses. 
 
 BIOSTAT 702:
+
 BIOSTAT 721:
+
 BIOSTAT 722: 
 
 ## Project Structure
