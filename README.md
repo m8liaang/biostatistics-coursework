@@ -4,8 +4,7 @@ Statistical analysis projects in R and SAS from biostatistics coursework.
 ## Project Structure
 ```text
 biostatistics-coursework/
-├── BIOSTAT Coursework
-|   └── BIOSTAT-702 # R
-|   └── BIOSTAT-721 # R
-|   └── BIOSTAT-722 # SAS
+├── BIOSTAT-702 # R
+├── BIOSTAT-721 # R
+├── BIOSTAT-722 # SAS
 ├── README.md
