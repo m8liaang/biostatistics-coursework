@@ -1,5 +1,12 @@
-# biostatistics-coursework
-Statistical analysis projects in R and SAS from biostatistics coursework.
+# Master of Biostatistics Coursework
+A repository containing statistical analysis projects in R and SAS from my Master of Biostatistics coursework. 
+
+# Course Overview
+The statistical analysis projects included were done for the following courses. 
+
+BIOSTAT 702:
+BIOSTAT 721:
+BIOSTAT 722: 
 
 ## Project Structure
 ```text
